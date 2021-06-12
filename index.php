@@ -154,7 +154,7 @@ body {
 /*
 
 </style>
-    <title>Hello, world!</title>
+    <title>Proje Ödevi İleri Programlama Teknikleri</title>
   </head>
   <body>
 
@@ -165,8 +165,8 @@ body {
         <h1 class="display-4">İleri Programlama Teknikleri</h1>
         <p class="lead mb-0">Fırat Üniversitesi Teknoloji Fakültesi Yazılım Mühendisliği İleri Programlama Teknikleri Proje Ödevi</p>
         <p class="mb-5 font-weight-light">
-            <a href="https://www.serdarbatihan.com.tr/" class="text-white">
-                <u>Serdar Batihan</u>
+            <a href="http://www.serdarbatihan.com.tr/?portfolio=watch" class="text-white">
+                <u>SSH Grup</u>
             </a> Tarafından Yapıldı
         </p>
         <img src="https://res.cloudinary.com/mhmd/image/upload/v1564991372/image_pxlho1.svg" alt="" width="150" class="mb-4">
